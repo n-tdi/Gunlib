@@ -1,0 +1,4 @@
+name: Guns
+version: '${project.version}'
+main: world.ntdi.guns.Guns
+api-version: 1.19
